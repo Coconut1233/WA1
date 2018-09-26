@@ -1,0 +1,47 @@
+body {
+  background-color: greenyellow;
+}
+h1 {
+  color: green;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  text-decoration: underline;
+  font-style: italic;
+  text-transform: capitalize;
+}
+h2 {
+  color: yellow;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-style: italic;
+  text-transform: capitalize;
+}
+.a {
+  color: rebeccapurple;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-style: italic;
+  text-transform: capitalize;
+}
+.b {
+  color: pink;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-style: oblique;
+  text-transform: capitalize;
+}
+.c {
+  color: red;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-style: italic;
+  text-transform: capitalize;
+}
+.d {
+  color: magenta;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-style: oblique;
+  text-transform: capitalize;
+}
+table,
+th,
+td {
+  border: 10px;
+  border-color: aquamarine;
+  border-style: solid;
+}
